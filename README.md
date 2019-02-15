@@ -26,11 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+React is a javascript library that is used to create apps. It makes complex apps easier to create by creating and reusing components.
+
 - [ ] What does it mean to _think_ in react?
+
+To break everything down into components and create those one at a time in order
 
 - [ ] Describe state.
 
+state is a js object that is used to control a component, it is created in the constructor and when it needs to be changed we can call setstate
+
 - [ ] Describe props.
+
+Compnents receive props from their parent where the props cannot be changed, unlike state. Props can be used when you want to use the same component but give it different values (like we did on the calculator project)
 
 ## Project Set Up
 

@@ -1,0 +1,10 @@
+div div div div {
+    background-color: #DEC1BB; 
+    border: 1px solid lightgrey;
+    padding: 10px 0px;
+    margin: 10px 0px
+}
+
+div div div div:hover {
+    background-color: #C7ADA8; 
+}
