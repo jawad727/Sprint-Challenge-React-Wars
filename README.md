@@ -26,7 +26,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
-React is a javascript library that is used to create apps. It makes complex apps easier to create by creating and reusing components.
+React is a javascript library that is used to create apps. It makes complex apps easier to create by creating and reusing components like weve been doing all week.
 
 - [ ] What does it mean to _think_ in react?
 
